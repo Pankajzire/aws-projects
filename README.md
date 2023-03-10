@@ -1,5 +1,4 @@
 # aws-projects
-# LevelUp! Lab for Serverless
 
 ## Lab Overview And High Level Design
 
