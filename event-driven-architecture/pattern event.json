@@ -1,0 +1,7 @@
+{
+  "source": ["com.aws.orders"],
+  "detail": {
+    "location": ["us-west", "us-east"],
+    "category": ["lab-supplies", "office-supplies"]
+  }
+}
