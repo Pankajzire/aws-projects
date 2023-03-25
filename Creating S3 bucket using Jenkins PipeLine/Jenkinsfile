@@ -1,0 +1,10 @@
+pipeline {
+    agent any
+    stages {
+        stage('Submit Stack') {
+            steps {
+            sh "aws cloudformation create-stack --stack-name s3bucket --template-body https://my-loc-bucket-2022.s3.ap-south-1.amazonaws.com/simplests3cft.json --region 'ap-south-1'"
+              }
+             }
+            }
+            }

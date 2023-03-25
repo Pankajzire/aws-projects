@@ -1,0 +1,7 @@
+{
+"source": ["com.aws.orders"],
+"detail": {
+"location": ["prefix": "eu-"],
+"value" : [ { "numeric": [ ">", 1000 ] } ] 
+}
+}

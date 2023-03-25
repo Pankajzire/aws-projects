@@ -1,0 +1,6 @@
+{
+"source": ["com.aws.orders"],
+"detail": {
+"location": ["prefix": "eu-"]
+}
+}
